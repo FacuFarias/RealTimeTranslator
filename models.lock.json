@@ -1,0 +1,20 @@
+{
+  "models": [
+    {
+      "name": "small.en",
+      "repository": "Systran/faster-whisper-small.en",
+      "revision": "d1d751a5f8271d482d14ca55d9e2deeebbae577f"
+    },
+    {
+      "name": "base.en",
+      "repository": "Systran/faster-whisper-base.en",
+      "revision": "3d3d5dee26484f91867d81cb899cfcf72b96be6c"
+    },
+    {
+      "name": "en_es",
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel",
+      "sha256": "d698d0ef87ad70d5d184b7fa6965905bf4368f09a2bb9ffb165a79bac96af0c4"
+    }
+  ]
+}

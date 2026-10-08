@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "errors": [],
+  "devices": {
+    "Sistema": "Auriculares (G435 Bluetooth Gaming Headset) [Loopback]",
+    "Micrófono": "Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)"
+  },
+  "sources": {
+    "Sistema": {
+      "audio_blocks": 119,
+      "peak_level": 1.0
+    },
+    "Micrófono": {
+      "audio_blocks": 134,
+      "peak_level": 0.0006302978727035224
+    }
+  },
+  "system_chunks": 4,
+  "synthetic_system_transcript": "Hello. This application translates English into Spanish. All audio is processed on this computer. You can save the transcript at the end of the session.",
+  "microphone_audio_saved": false
+}

@@ -1,0 +1,114 @@
+{
+  "completed": true,
+  "network_attempts": [],
+  "sessions": [
+    {
+      "model": "base.en",
+      "synthetic_audio_seconds": 60,
+      "completed_synthetic_seconds": 60,
+      "segments": 23,
+      "errors": [],
+      "latency_median_seconds": 1.774,
+      "latency_p95_seconds": 4.1,
+      "latency_max_seconds": 4.619,
+      "max_pending_audio_seconds": 4.5,
+      "final_pending_audio_seconds": 0,
+      "first_transcript": "Hello. This application translates English into Spanish.",
+      "last_transcript": "You can save the transcript at the end of the session.",
+      "timing": [
+        {
+          "source": "Sistema",
+          "start": 0.0,
+          "asr_seconds": 0.9504248000157531,
+          "translation_seconds": 0.04232959999353625
+        },
+        {
+          "source": "Sistema",
+          "start": 4.0,
+          "asr_seconds": 1.0979205000039656,
+          "translation_seconds": 0.09350609997636639
+        },
+        {
+          "source": "Sistema",
+          "start": 8.0,
+          "asr_seconds": 0.7818123000033665,
+          "translation_seconds": 0.048786800005473197
+        },
+        {
+          "source": "Sistema",
+          "start": 12.0,
+          "asr_seconds": 0.8495883000141475,
+          "translation_seconds": 0.056872299988754094
+        },
+        {
+          "source": "Sistema",
+          "start": 16.0,
+          "asr_seconds": 1.0425410000025295,
+          "translation_seconds": 0.05175109999254346
+        },
+        {
+          "source": "Sistema",
+          "start": 20.0,
+          "asr_seconds": 0.826342599990312,
+          "translation_seconds": 0.05800580000504851
+        },
+        {
+          "source": "Sistema",
+          "start": 24.0,
+          "asr_seconds": 1.4154041000292636,
+          "translation_seconds": 0.057359599974006414
+        },
+        {
+          "source": "Sistema",
+          "start": 28.0,
+          "asr_seconds": 0.7706139000365511,
+          "translation_seconds": 0.04897479998180643
+        },
+        {
+          "source": "Sistema",
+          "start": 32.0,
+          "asr_seconds": 0.714264699985506,
+          "translation_seconds": 0.05835780000779778
+        },
+        {
+          "source": "Sistema",
+          "start": 36.0,
+          "asr_seconds": 0.666796700010309,
+          "translation_seconds": 0.04373669999768026
+        },
+        {
+          "source": "Sistema",
+          "start": 40.0,
+          "asr_seconds": 0.7136000999889802,
+          "translation_seconds": 0.060897700022906065
+        },
+        {
+          "source": "Sistema",
+          "start": 44.0,
+          "asr_seconds": 0.9055074000207242,
+          "translation_seconds": 0.07449410000117496
+        },
+        {
+          "source": "Sistema",
+          "start": 48.0,
+          "asr_seconds": 1.0373953999951482,
+          "translation_seconds": 0.014884899981552735
+        },
+        {
+          "source": "Sistema",
+          "start": 52.0,
+          "asr_seconds": 0.7913405999715906,
+          "translation_seconds": 0.06173870002385229
+        },
+        {
+          "source": "Sistema",
+          "start": 56.0,
+          "asr_seconds": 0.9715663999959361,
+          "translation_seconds": 0.0822078000055626
+        }
+      ]
+    }
+  ],
+  "report_note": "Single selected model completed; original completion flag expected two models.",
+  "capture_block_seconds": 4.5
+}

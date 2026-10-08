@@ -1,0 +1,204 @@
+{
+  "completed": true,
+  "network_attempts": [],
+  "sessions": [
+    {
+      "model": "base.en",
+      "synthetic_audio_seconds": 60,
+      "completed_synthetic_seconds": 60,
+      "segments": 33,
+      "errors": [],
+      "latency_median_seconds": 1.134,
+      "latency_p95_seconds": 2.319,
+      "latency_max_seconds": 2.635,
+      "max_pending_audio_seconds": 2.5,
+      "final_pending_audio_seconds": 0,
+      "first_transcript": "Hello. This application trend",
+      "last_transcript": "transcript at the end of the session.",
+      "timing": [
+        {
+          "source": "Sistema",
+          "start": 0.0,
+          "asr_seconds": 0.9274551999988034,
+          "translation_seconds": 0.04517430000123568
+        },
+        {
+          "source": "Sistema",
+          "start": 2.0,
+          "asr_seconds": 0.652142000006279,
+          "translation_seconds": 0.022700499976053834
+        },
+        {
+          "source": "Sistema",
+          "start": 4.0,
+          "asr_seconds": 0.722450100001879,
+          "translation_seconds": 0.0459162000042852
+        },
+        {
+          "source": "Sistema",
+          "start": 6.0,
+          "asr_seconds": 0.8108350000111386,
+          "translation_seconds": 0.015061299985973164
+        },
+        {
+          "source": "Sistema",
+          "start": 8.0,
+          "asr_seconds": 0.9679794999829028,
+          "translation_seconds": 0.08167050001793541
+        },
+        {
+          "source": "Sistema",
+          "start": 10.0,
+          "asr_seconds": 0.7124239999975543,
+          "translation_seconds": 0.0
+        },
+        {
+          "source": "Sistema",
+          "start": 12.0,
+          "asr_seconds": 0.8704391999926884,
+          "translation_seconds": 0.015212199999950826
+        },
+        {
+          "source": "Sistema",
+          "start": 14.0,
+          "asr_seconds": 0.6300691000069492,
+          "translation_seconds": 0.031764999992446974
+        },
+        {
+          "source": "Sistema",
+          "start": 16.0,
+          "asr_seconds": 1.4360145000100601,
+          "translation_seconds": 0.02565090000280179
+        },
+        {
+          "source": "Sistema",
+          "start": 18.0,
+          "asr_seconds": 0.6218249000085052,
+          "translation_seconds": 0.017173900007037446
+        },
+        {
+          "source": "Sistema",
+          "start": 20.0,
+          "asr_seconds": 0.7001984000089578,
+          "translation_seconds": 0.045702200004598126
+        },
+        {
+          "source": "Sistema",
+          "start": 22.0,
+          "asr_seconds": 0.6434537000022829,
+          "translation_seconds": 0.016708299983292818
+        },
+        {
+          "source": "Sistema",
+          "start": 24.0,
+          "asr_seconds": 0.6322444999823347,
+          "translation_seconds": 0.015722200012532994
+        },
+        {
+          "source": "Sistema",
+          "start": 26.0,
+          "asr_seconds": 1.3008905999886338,
+          "translation_seconds": 0.03977370000211522
+        },
+        {
+          "source": "Sistema",
+          "start": 28.0,
+          "asr_seconds": 0.6527671000221744,
+          "translation_seconds": 0.024204399989685044
+        },
+        {
+          "source": "Sistema",
+          "start": 30.0,
+          "asr_seconds": 0.7819592999876477,
+          "translation_seconds": 0.029729600006248802
+        },
+        {
+          "source": "Sistema",
+          "start": 32.0,
+          "asr_seconds": 0.6773722000070848,
+          "translation_seconds": 0.03209769999375567
+        },
+        {
+          "source": "Sistema",
+          "start": 34.0,
+          "asr_seconds": 0.6898261999886017,
+          "translation_seconds": 0.04723669998929836
+        },
+        {
+          "source": "Sistema",
+          "start": 36.0,
+          "asr_seconds": 0.6482718999905046,
+          "translation_seconds": 0.015609900001436472
+        },
+        {
+          "source": "Sistema",
+          "start": 38.0,
+          "asr_seconds": 0.6586353000020608,
+          "translation_seconds": 0.03152119999867864
+        },
+        {
+          "source": "Sistema",
+          "start": 40.0,
+          "asr_seconds": 1.5082071000069845,
+          "translation_seconds": 0.040498899994418025
+        },
+        {
+          "source": "Sistema",
+          "start": 42.0,
+          "asr_seconds": 0.6995879999885801,
+          "translation_seconds": 0.02387020000605844
+        },
+        {
+          "source": "Sistema",
+          "start": 44.0,
+          "asr_seconds": 0.7444753999880049,
+          "translation_seconds": 0.02600680000614375
+        },
+        {
+          "source": "Sistema",
+          "start": 46.0,
+          "asr_seconds": 0.7490425999858417,
+          "translation_seconds": 0.03778929999680258
+        },
+        {
+          "source": "Sistema",
+          "start": 48.0,
+          "asr_seconds": 0.7079128000186756,
+          "translation_seconds": 0.017879299994092435
+        },
+        {
+          "source": "Sistema",
+          "start": 50.0,
+          "asr_seconds": 0.7563251999672502,
+          "translation_seconds": 0.0489106000168249
+        },
+        {
+          "source": "Sistema",
+          "start": 52.0,
+          "asr_seconds": 0.6544063999899663,
+          "translation_seconds": 0.014604500000132248
+        },
+        {
+          "source": "Sistema",
+          "start": 54.0,
+          "asr_seconds": 0.6611051999789197,
+          "translation_seconds": 0.03564770001685247
+        },
+        {
+          "source": "Sistema",
+          "start": 56.0,
+          "asr_seconds": 1.2420273000316229,
+          "translation_seconds": 0.02019139999174513
+        },
+        {
+          "source": "Sistema",
+          "start": 58.0,
+          "asr_seconds": 0.681738299987046,
+          "translation_seconds": 0.03635290000238456
+        }
+      ]
+    }
+  ],
+  "report_note": "Single selected model completed; original completion flag expected two models.",
+  "capture_block_seconds": 2.5
+}

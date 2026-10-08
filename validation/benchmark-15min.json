@@ -1,0 +1,2738 @@
+{
+  "completed": true,
+  "network_attempts": [],
+  "sessions": [
+    {
+      "model": "small.en",
+      "synthetic_audio_seconds": 900,
+      "completed_synthetic_seconds": 900,
+      "segments": 333,
+      "errors": [],
+      "latency_median_seconds": 3.106,
+      "latency_p95_seconds": 10.374,
+      "latency_max_seconds": 37.053,
+      "max_pending_audio_seconds": 27.0,
+      "final_pending_audio_seconds": 0,
+      "first_transcript": "Hello! This application translates English into Spanish.",
+      "last_transcript": "All audio is processed on this",
+      "timing": [
+        {
+          "source": "Sistema",
+          "start": 0.0,
+          "asr_seconds": 2.194253000023309,
+          "translation_seconds": 0.05214250000426546
+        },
+        {
+          "source": "Sistema",
+          "start": 4.0,
+          "asr_seconds": 2.245692200027406,
+          "translation_seconds": 0.07863529998576269
+        },
+        {
+          "source": "Sistema",
+          "start": 8.0,
+          "asr_seconds": 1.8078674999705981,
+          "translation_seconds": 0.03832310001598671
+        },
+        {
+          "source": "Sistema",
+          "start": 12.0,
+          "asr_seconds": 1.806284800026333,
+          "translation_seconds": 0.04227489998447709
+        },
+        {
+          "source": "Sistema",
+          "start": 16.0,
+          "asr_seconds": 1.8167666000081226,
+          "translation_seconds": 0.03178610000759363
+        },
+        {
+          "source": "Sistema",
+          "start": 20.0,
+          "asr_seconds": 2.033789400011301,
+          "translation_seconds": 0.05052889999933541
+        },
+        {
+          "source": "Sistema",
+          "start": 24.0,
+          "asr_seconds": 2.0626736000122037,
+          "translation_seconds": 0.04489379998994991
+        },
+        {
+          "source": "Sistema",
+          "start": 28.0,
+          "asr_seconds": 1.8236346000048798,
+          "translation_seconds": 0.04341099999146536
+        },
+        {
+          "source": "Sistema",
+          "start": 32.0,
+          "asr_seconds": 1.8163955000345595,
+          "translation_seconds": 0.04380799998762086
+        },
+        {
+          "source": "Sistema",
+          "start": 36.0,
+          "asr_seconds": 1.8164625999925192,
+          "translation_seconds": 0.034654200018849224
+        },
+        {
+          "source": "Sistema",
+          "start": 40.0,
+          "asr_seconds": 1.7925015999935567,
+          "translation_seconds": 0.03387970000039786
+        },
+        {
+          "source": "Sistema",
+          "start": 44.0,
+          "asr_seconds": 1.8516295999579597,
+          "translation_seconds": 0.04229820001637563
+        },
+        {
+          "source": "Sistema",
+          "start": 48.0,
+          "asr_seconds": 1.7600284999934956,
+          "translation_seconds": 0.021866299997782335
+        },
+        {
+          "source": "Sistema",
+          "start": 52.0,
+          "asr_seconds": 1.8253304999670945,
+          "translation_seconds": 0.05764140002429485
+        },
+        {
+          "source": "Sistema",
+          "start": 56.0,
+          "asr_seconds": 1.9503520999860484,
+          "translation_seconds": 0.06588670000201091
+        },
+        {
+          "source": "Sistema",
+          "start": 60.0,
+          "asr_seconds": 1.7035217999946326,
+          "translation_seconds": 0.02386430001934059
+        },
+        {
+          "source": "Sistema",
+          "start": 64.0,
+          "asr_seconds": 1.956987699988531,
+          "translation_seconds": 0.06074169999919832
+        },
+        {
+          "source": "Sistema",
+          "start": 68.0,
+          "asr_seconds": 2.0872759000048973,
+          "translation_seconds": 0.05372029999853112
+        },
+        {
+          "source": "Sistema",
+          "start": 72.0,
+          "asr_seconds": 1.7840247999702115,
+          "translation_seconds": 0.028194000013172626
+        },
+        {
+          "source": "Sistema",
+          "start": 76.0,
+          "asr_seconds": 1.7918090000166558,
+          "translation_seconds": 0.022667599987471476
+        },
+        {
+          "source": "Sistema",
+          "start": 80.0,
+          "asr_seconds": 1.945480399997905,
+          "translation_seconds": 0.06468700000550598
+        },
+        {
+          "source": "Sistema",
+          "start": 84.0,
+          "asr_seconds": 1.9527808999991976,
+          "translation_seconds": 0.072586099995533
+        },
+        {
+          "source": "Sistema",
+          "start": 88.0,
+          "asr_seconds": 1.7800451999646612,
+          "translation_seconds": 0.04364800002076663
+        },
+        {
+          "source": "Sistema",
+          "start": 92.0,
+          "asr_seconds": 1.9410588000027929,
+          "translation_seconds": 0.05666099998052232
+        },
+        {
+          "source": "Sistema",
+          "start": 96.0,
+          "asr_seconds": 2.111632100015413,
+          "translation_seconds": 0.04846619997988455
+        },
+        {
+          "source": "Sistema",
+          "start": 100.0,
+          "asr_seconds": 2.240606300008949,
+          "translation_seconds": 0.04534260000218637
+        },
+        {
+          "source": "Sistema",
+          "start": 104.0,
+          "asr_seconds": 2.321538500022143,
+          "translation_seconds": 0.07748899998841807
+        },
+        {
+          "source": "Sistema",
+          "start": 108.0,
+          "asr_seconds": 2.1301704000215977,
+          "translation_seconds": 0.03570859998581
+        },
+        {
+          "source": "Sistema",
+          "start": 112.0,
+          "asr_seconds": 1.844141600013245,
+          "translation_seconds": 0.03948059998219833
+        },
+        {
+          "source": "Sistema",
+          "start": 116.0,
+          "asr_seconds": 1.9288544000301044,
+          "translation_seconds": 0.05683889996726066
+        },
+        {
+          "source": "Sistema",
+          "start": 120.0,
+          "asr_seconds": 2.1465121999790426,
+          "translation_seconds": 0.05805530000361614
+        },
+        {
+          "source": "Sistema",
+          "start": 124.0,
+          "asr_seconds": 1.8611007999570575,
+          "translation_seconds": 0.029246400023112074
+        },
+        {
+          "source": "Sistema",
+          "start": 128.0,
+          "asr_seconds": 1.9514373000420164,
+          "translation_seconds": 0.06511089997366071
+        },
+        {
+          "source": "Sistema",
+          "start": 132.0,
+          "asr_seconds": 2.0822045999811962,
+          "translation_seconds": 0.05589380001765676
+        },
+        {
+          "source": "Sistema",
+          "start": 136.0,
+          "asr_seconds": 1.8811268000281416,
+          "translation_seconds": 0.0414697999949567
+        },
+        {
+          "source": "Sistema",
+          "start": 140.0,
+          "asr_seconds": 1.8344355000008363,
+          "translation_seconds": 0.03131829999620095
+        },
+        {
+          "source": "Sistema",
+          "start": 144.0,
+          "asr_seconds": 2.0978984000103083,
+          "translation_seconds": 0.054023100004997104
+        },
+        {
+          "source": "Sistema",
+          "start": 148.0,
+          "asr_seconds": 2.0068624999839813,
+          "translation_seconds": 0.03527580000809394
+        },
+        {
+          "source": "Sistema",
+          "start": 152.0,
+          "asr_seconds": 2.3517509999510366,
+          "translation_seconds": 0.061601500026881695
+        },
+        {
+          "source": "Sistema",
+          "start": 156.0,
+          "asr_seconds": 2.221529600006761,
+          "translation_seconds": 0.058818899997277185
+        },
+        {
+          "source": "Sistema",
+          "start": 160.0,
+          "asr_seconds": 2.087294600001769,
+          "translation_seconds": 0.034067200002027676
+        },
+        {
+          "source": "Sistema",
+          "start": 164.0,
+          "asr_seconds": 1.894434400019236,
+          "translation_seconds": 0.04632239998318255
+        },
+        {
+          "source": "Sistema",
+          "start": 168.0,
+          "asr_seconds": 1.8823179000173695,
+          "translation_seconds": 0.04507469999953173
+        },
+        {
+          "source": "Sistema",
+          "start": 172.0,
+          "asr_seconds": 1.7849585999792907,
+          "translation_seconds": 0.02449100001831539
+        },
+        {
+          "source": "Sistema",
+          "start": 176.0,
+          "asr_seconds": 2.137661199987633,
+          "translation_seconds": 0.0712657000112813
+        },
+        {
+          "source": "Sistema",
+          "start": 180.0,
+          "asr_seconds": 1.982502700004261,
+          "translation_seconds": 0.06080929999006912
+        },
+        {
+          "source": "Sistema",
+          "start": 184.0,
+          "asr_seconds": 1.817287200014107,
+          "translation_seconds": 0.020182000007480383
+        },
+        {
+          "source": "Sistema",
+          "start": 188.0,
+          "asr_seconds": 2.199541500012856,
+          "translation_seconds": 0.08392559998901561
+        },
+        {
+          "source": "Sistema",
+          "start": 192.0,
+          "asr_seconds": 2.3173923000285868,
+          "translation_seconds": 0.06740489997901022
+        },
+        {
+          "source": "Sistema",
+          "start": 196.0,
+          "asr_seconds": 4.615214299963554,
+          "translation_seconds": 0.044944000022951514
+        },
+        {
+          "source": "Sistema",
+          "start": 200.0,
+          "asr_seconds": 2.1181288000079803,
+          "translation_seconds": 0.05960949999280274
+        },
+        {
+          "source": "Sistema",
+          "start": 204.0,
+          "asr_seconds": 1.9612789000093471,
+          "translation_seconds": 0.05333279998740181
+        },
+        {
+          "source": "Sistema",
+          "start": 208.0,
+          "asr_seconds": 2.3672865999978967,
+          "translation_seconds": 0.08121780000510626
+        },
+        {
+          "source": "Sistema",
+          "start": 212.0,
+          "asr_seconds": 2.0716503000294324,
+          "translation_seconds": 0.053972699970472604
+        },
+        {
+          "source": "Sistema",
+          "start": 216.0,
+          "asr_seconds": 2.3004942999978084,
+          "translation_seconds": 0.07067350001307204
+        },
+        {
+          "source": "Sistema",
+          "start": 220.0,
+          "asr_seconds": 2.338534799986519,
+          "translation_seconds": 0.04875680000986904
+        },
+        {
+          "source": "Sistema",
+          "start": 224.0,
+          "asr_seconds": 1.995630200020969,
+          "translation_seconds": 0.038840999972308055
+        },
+        {
+          "source": "Sistema",
+          "start": 228.0,
+          "asr_seconds": 1.926738000009209,
+          "translation_seconds": 0.052365199982887134
+        },
+        {
+          "source": "Sistema",
+          "start": 232.0,
+          "asr_seconds": 1.8879981000209227,
+          "translation_seconds": 0.047097799979383126
+        },
+        {
+          "source": "Sistema",
+          "start": 236.0,
+          "asr_seconds": 1.7409749999642372,
+          "translation_seconds": 0.03017880002153106
+        },
+        {
+          "source": "Sistema",
+          "start": 240.0,
+          "asr_seconds": 1.9024702000024263,
+          "translation_seconds": 0.0507964999997057
+        },
+        {
+          "source": "Sistema",
+          "start": 244.0,
+          "asr_seconds": 1.9750281000160612,
+          "translation_seconds": 0.0336290999839548
+        },
+        {
+          "source": "Sistema",
+          "start": 248.0,
+          "asr_seconds": 1.8642668999964371,
+          "translation_seconds": 0.0358323999971617
+        },
+        {
+          "source": "Sistema",
+          "start": 252.0,
+          "asr_seconds": 1.8058635999914259,
+          "translation_seconds": 0.030811900011030957
+        },
+        {
+          "source": "Sistema",
+          "start": 256.0,
+          "asr_seconds": 1.8845178000046872,
+          "translation_seconds": 0.04449589998694137
+        },
+        {
+          "source": "Sistema",
+          "start": 260.0,
+          "asr_seconds": 2.03401840000879,
+          "translation_seconds": 0.046755899995332584
+        },
+        {
+          "source": "Sistema",
+          "start": 264.0,
+          "asr_seconds": 1.9171330999815837,
+          "translation_seconds": 0.03427270002430305
+        },
+        {
+          "source": "Sistema",
+          "start": 268.0,
+          "asr_seconds": 2.0433462999935728,
+          "translation_seconds": 0.04892659999313764
+        },
+        {
+          "source": "Sistema",
+          "start": 272.0,
+          "asr_seconds": 2.010777400020743,
+          "translation_seconds": 0.03631949998089112
+        },
+        {
+          "source": "Sistema",
+          "start": 276.0,
+          "asr_seconds": 1.8983132000139449,
+          "translation_seconds": 0.041565799998352304
+        },
+        {
+          "source": "Sistema",
+          "start": 280.0,
+          "asr_seconds": 1.8839494000130799,
+          "translation_seconds": 0.044522899988805875
+        },
+        {
+          "source": "Sistema",
+          "start": 284.0,
+          "asr_seconds": 2.021099100005813,
+          "translation_seconds": 0.032640499994158745
+        },
+        {
+          "source": "Sistema",
+          "start": 288.0,
+          "asr_seconds": 2.163617999991402,
+          "translation_seconds": 0.053980099997716025
+        },
+        {
+          "source": "Sistema",
+          "start": 292.0,
+          "asr_seconds": 2.147996999992756,
+          "translation_seconds": 0.047532299999147654
+        },
+        {
+          "source": "Sistema",
+          "start": 296.0,
+          "asr_seconds": 2.0021953999821562,
+          "translation_seconds": 0.028392700012773275
+        },
+        {
+          "source": "Sistema",
+          "start": 300.0,
+          "asr_seconds": 2.0051133999659214,
+          "translation_seconds": 0.051251200027763844
+        },
+        {
+          "source": "Sistema",
+          "start": 304.0,
+          "asr_seconds": 2.1276080000097863,
+          "translation_seconds": 0.054388799995649606
+        },
+        {
+          "source": "Sistema",
+          "start": 308.0,
+          "asr_seconds": 2.0188175000366755,
+          "translation_seconds": 0.02508339998894371
+        },
+        {
+          "source": "Sistema",
+          "start": 312.0,
+          "asr_seconds": 1.962260400003288,
+          "translation_seconds": 0.044885699986480176
+        },
+        {
+          "source": "Sistema",
+          "start": 316.0,
+          "asr_seconds": 2.232351100014057,
+          "translation_seconds": 0.06961899998714216
+        },
+        {
+          "source": "Sistema",
+          "start": 320.0,
+          "asr_seconds": 2.0897992000100203,
+          "translation_seconds": 0.06438890000572428
+        },
+        {
+          "source": "Sistema",
+          "start": 324.0,
+          "asr_seconds": 1.9193875000055414,
+          "translation_seconds": 0.047103899996727705
+        },
+        {
+          "source": "Sistema",
+          "start": 328.0,
+          "asr_seconds": 1.9915825000207406,
+          "translation_seconds": 0.06120949998148717
+        },
+        {
+          "source": "Sistema",
+          "start": 332.0,
+          "asr_seconds": 2.0342581000295468,
+          "translation_seconds": 0.06434379998245277
+        },
+        {
+          "source": "Sistema",
+          "start": 336.0,
+          "asr_seconds": 2.0416987000207882,
+          "translation_seconds": 0.034353399998508394
+        },
+        {
+          "source": "Sistema",
+          "start": 340.0,
+          "asr_seconds": 2.043115000007674,
+          "translation_seconds": 0.05606090000947006
+        },
+        {
+          "source": "Sistema",
+          "start": 344.0,
+          "asr_seconds": 2.1075924999895506,
+          "translation_seconds": 0.05574130002059974
+        },
+        {
+          "source": "Sistema",
+          "start": 348.0,
+          "asr_seconds": 1.9971513999917079,
+          "translation_seconds": 0.034372599999187514
+        },
+        {
+          "source": "Sistema",
+          "start": 352.0,
+          "asr_seconds": 2.223131199978525,
+          "translation_seconds": 0.0651998000103049
+        },
+        {
+          "source": "Sistema",
+          "start": 356.0,
+          "asr_seconds": 2.0385778000054415,
+          "translation_seconds": 0.04300379997584969
+        },
+        {
+          "source": "Sistema",
+          "start": 360.0,
+          "asr_seconds": 2.1582951999735087,
+          "translation_seconds": 0.034674900001846254
+        },
+        {
+          "source": "Sistema",
+          "start": 364.0,
+          "asr_seconds": 2.204785500012804,
+          "translation_seconds": 0.06024229998001829
+        },
+        {
+          "source": "Sistema",
+          "start": 368.0,
+          "asr_seconds": 2.063860099995509,
+          "translation_seconds": 0.04822070000227541
+        },
+        {
+          "source": "Sistema",
+          "start": 372.0,
+          "asr_seconds": 2.0061004000308458,
+          "translation_seconds": 0.046289199992315844
+        },
+        {
+          "source": "Sistema",
+          "start": 376.0,
+          "asr_seconds": 1.8366583999595605,
+          "translation_seconds": 0.04338400001870468
+        },
+        {
+          "source": "Sistema",
+          "start": 380.0,
+          "asr_seconds": 1.8250021999992896,
+          "translation_seconds": 0.04217359999893233
+        },
+        {
+          "source": "Sistema",
+          "start": 384.0,
+          "asr_seconds": 1.858793700026581,
+          "translation_seconds": 0.039048499980708584
+        },
+        {
+          "source": "Sistema",
+          "start": 388.0,
+          "asr_seconds": 2.1554513000301085,
+          "translation_seconds": 0.037543199985520914
+        },
+        {
+          "source": "Sistema",
+          "start": 392.0,
+          "asr_seconds": 2.109556799987331,
+          "translation_seconds": 0.05145860000629909
+        },
+        {
+          "source": "Sistema",
+          "start": 396.0,
+          "asr_seconds": 1.8426474999869242,
+          "translation_seconds": 0.03951450000749901
+        },
+        {
+          "source": "Sistema",
+          "start": 400.0,
+          "asr_seconds": 2.0165147999941837,
+          "translation_seconds": 0.05130940000526607
+        },
+        {
+          "source": "Sistema",
+          "start": 404.0,
+          "asr_seconds": 2.14520149998134,
+          "translation_seconds": 0.05073030001949519
+        },
+        {
+          "source": "Sistema",
+          "start": 408.0,
+          "asr_seconds": 2.0366813000000548,
+          "translation_seconds": 0.03593319997889921
+        },
+        {
+          "source": "Sistema",
+          "start": 412.0,
+          "asr_seconds": 2.113622699980624,
+          "translation_seconds": 0.0670451000041794
+        },
+        {
+          "source": "Sistema",
+          "start": 416.0,
+          "asr_seconds": 2.1421970000083093,
+          "translation_seconds": 0.04602889998932369
+        },
+        {
+          "source": "Sistema",
+          "start": 420.0,
+          "asr_seconds": 1.7932391999929678,
+          "translation_seconds": 0.027305600000545382
+        },
+        {
+          "source": "Sistema",
+          "start": 424.0,
+          "asr_seconds": 1.82419180002762,
+          "translation_seconds": 0.050323599978582934
+        },
+        {
+          "source": "Sistema",
+          "start": 428.0,
+          "asr_seconds": 1.8432878999738023,
+          "translation_seconds": 0.0414578000199981
+        },
+        {
+          "source": "Sistema",
+          "start": 432.0,
+          "asr_seconds": 1.8008640999614727,
+          "translation_seconds": 0.016375800012610853
+        },
+        {
+          "source": "Sistema",
+          "start": 436.0,
+          "asr_seconds": 2.0962387999752536,
+          "translation_seconds": 0.06365940000978298
+        },
+        {
+          "source": "Sistema",
+          "start": 440.0,
+          "asr_seconds": 2.2007986000098754,
+          "translation_seconds": 0.07854610000504181
+        },
+        {
+          "source": "Sistema",
+          "start": 444.0,
+          "asr_seconds": 2.0382387000136077,
+          "translation_seconds": 0.02359430000069551
+        },
+        {
+          "source": "Sistema",
+          "start": 448.0,
+          "asr_seconds": 2.0850775000290014,
+          "translation_seconds": 0.05978759998106398
+        },
+        {
+          "source": "Sistema",
+          "start": 452.0,
+          "asr_seconds": 2.3346869999950286,
+          "translation_seconds": 0.0739404000050854
+        },
+        {
+          "source": "Sistema",
+          "start": 456.0,
+          "asr_seconds": 2.159879100014223,
+          "translation_seconds": 0.04349429998546839
+        },
+        {
+          "source": "Sistema",
+          "start": 460.0,
+          "asr_seconds": 2.04077680001501,
+          "translation_seconds": 0.03400009998586029
+        },
+        {
+          "source": "Sistema",
+          "start": 464.0,
+          "asr_seconds": 2.163101399986772,
+          "translation_seconds": 0.06438789999810979
+        },
+        {
+          "source": "Sistema",
+          "start": 468.0,
+          "asr_seconds": 1.862473700020928,
+          "translation_seconds": 0.04177069998695515
+        },
+        {
+          "source": "Sistema",
+          "start": 472.0,
+          "asr_seconds": 1.8463198999816086,
+          "translation_seconds": 0.02779480000026524
+        },
+        {
+          "source": "Sistema",
+          "start": 476.0,
+          "asr_seconds": 1.9047524999768939,
+          "translation_seconds": 0.056441000022459775
+        },
+        {
+          "source": "Sistema",
+          "start": 480.0,
+          "asr_seconds": 1.8910711999924388,
+          "translation_seconds": 0.046991300012450665
+        },
+        {
+          "source": "Sistema",
+          "start": 484.0,
+          "asr_seconds": 2.091768600017531,
+          "translation_seconds": 0.036305799992987886
+        },
+        {
+          "source": "Sistema",
+          "start": 488.0,
+          "asr_seconds": 2.127477700007148,
+          "translation_seconds": 0.06137250000028871
+        },
+        {
+          "source": "Sistema",
+          "start": 492.0,
+          "asr_seconds": 1.8606377000396606,
+          "translation_seconds": 0.036369799985550344
+        },
+        {
+          "source": "Sistema",
+          "start": 496.0,
+          "asr_seconds": 1.8259249000111595,
+          "translation_seconds": 0.04185549999237992
+        },
+        {
+          "source": "Sistema",
+          "start": 500.0,
+          "asr_seconds": 1.7784750999999233,
+          "translation_seconds": 0.036320699990028515
+        },
+        {
+          "source": "Sistema",
+          "start": 504.0,
+          "asr_seconds": 2.123245999973733,
+          "translation_seconds": 0.05203430002438836
+        },
+        {
+          "source": "Sistema",
+          "start": 508.0,
+          "asr_seconds": 1.7893427000090014,
+          "translation_seconds": 0.039528499997686595
+        },
+        {
+          "source": "Sistema",
+          "start": 512.0,
+          "asr_seconds": 2.0864313999773003,
+          "translation_seconds": 0.06257080001523718
+        },
+        {
+          "source": "Sistema",
+          "start": 516.0,
+          "asr_seconds": 1.9061483000114094,
+          "translation_seconds": 0.0442091999866534
+        },
+        {
+          "source": "Sistema",
+          "start": 520.0,
+          "asr_seconds": 1.8080106999841519,
+          "translation_seconds": 0.03347990001202561
+        },
+        {
+          "source": "Sistema",
+          "start": 524.0,
+          "asr_seconds": 2.1616238999995403,
+          "translation_seconds": 0.0806946000084281
+        },
+        {
+          "source": "Sistema",
+          "start": 528.0,
+          "asr_seconds": 2.1085102999932133,
+          "translation_seconds": 0.055521000002045184
+        },
+        {
+          "source": "Sistema",
+          "start": 532.0,
+          "asr_seconds": 1.8556167000206187,
+          "translation_seconds": 0.030497999978251755
+        },
+        {
+          "source": "Sistema",
+          "start": 536.0,
+          "asr_seconds": 1.9248615999822505,
+          "translation_seconds": 0.05630250001559034
+        },
+        {
+          "source": "Sistema",
+          "start": 540.0,
+          "asr_seconds": 2.0111938000191003,
+          "translation_seconds": 0.04463960000430234
+        },
+        {
+          "source": "Sistema",
+          "start": 544.0,
+          "asr_seconds": 2.05966709999484,
+          "translation_seconds": 0.02783659999840893
+        },
+        {
+          "source": "Sistema",
+          "start": 548.0,
+          "asr_seconds": 2.115583600010723,
+          "translation_seconds": 0.06342679998488165
+        },
+        {
+          "source": "Sistema",
+          "start": 552.0,
+          "asr_seconds": 1.8905033999762964,
+          "translation_seconds": 0.044594100007088855
+        },
+        {
+          "source": "Sistema",
+          "start": 556.0,
+          "asr_seconds": 2.059846100019058,
+          "translation_seconds": 0.020723499997984618
+        },
+        {
+          "source": "Sistema",
+          "start": 560.0,
+          "asr_seconds": 2.131924199988134,
+          "translation_seconds": 0.06963040001573972
+        },
+        {
+          "source": "Sistema",
+          "start": 564.0,
+          "asr_seconds": 2.053237900021486,
+          "translation_seconds": 0.061279899993678555
+        },
+        {
+          "source": "Sistema",
+          "start": 568.0,
+          "asr_seconds": 1.8840104999544565,
+          "translation_seconds": 0.035985000024084
+        },
+        {
+          "source": "Sistema",
+          "start": 572.0,
+          "asr_seconds": 2.227723500021966,
+          "translation_seconds": 0.06499469999107532
+        },
+        {
+          "source": "Sistema",
+          "start": 576.0,
+          "asr_seconds": 2.189076299982844,
+          "translation_seconds": 0.07114230003207922
+        },
+        {
+          "source": "Sistema",
+          "start": 580.0,
+          "asr_seconds": 2.026026199979242,
+          "translation_seconds": 0.04569560001255013
+        },
+        {
+          "source": "Sistema",
+          "start": 584.0,
+          "asr_seconds": 2.3110472999687772,
+          "translation_seconds": 0.04013800001121126
+        },
+        {
+          "source": "Sistema",
+          "start": 588.0,
+          "asr_seconds": 1.9968402000085916,
+          "translation_seconds": 0.05866819998482242
+        },
+        {
+          "source": "Sistema",
+          "start": 592.0,
+          "asr_seconds": 2.2436668000300415,
+          "translation_seconds": 0.07945459999609739
+        },
+        {
+          "source": "Sistema",
+          "start": 596.0,
+          "asr_seconds": 2.6140873999975156,
+          "translation_seconds": 0.06689909999840893
+        },
+        {
+          "source": "Sistema",
+          "start": 600.0,
+          "asr_seconds": 3.0937039999989793,
+          "translation_seconds": 0.09008170000743121
+        },
+        {
+          "source": "Sistema",
+          "start": 604.0,
+          "asr_seconds": 2.8394437999813817,
+          "translation_seconds": 0.07424870002432726
+        },
+        {
+          "source": "Sistema",
+          "start": 608.0,
+          "asr_seconds": 2.7521373000054155,
+          "translation_seconds": 0.044543900003191084
+        },
+        {
+          "source": "Sistema",
+          "start": 612.0,
+          "asr_seconds": 2.7189315000141505,
+          "translation_seconds": 0.07255039998563007
+        },
+        {
+          "source": "Sistema",
+          "start": 616.0,
+          "asr_seconds": 2.769460400013486,
+          "translation_seconds": 0.07382349998806603
+        },
+        {
+          "source": "Sistema",
+          "start": 620.0,
+          "asr_seconds": 2.74807400003192,
+          "translation_seconds": 0.055664399988017976
+        },
+        {
+          "source": "Sistema",
+          "start": 624.0,
+          "asr_seconds": 2.4745552999957,
+          "translation_seconds": 0.06014019998838194
+        },
+        {
+          "source": "Sistema",
+          "start": 628.0,
+          "asr_seconds": 2.428216700005578,
+          "translation_seconds": 0.058980300003895536
+        },
+        {
+          "source": "Sistema",
+          "start": 632.0,
+          "asr_seconds": 2.4304964999610092,
+          "translation_seconds": 0.05724310001824051
+        },
+        {
+          "source": "Sistema",
+          "start": 636.0,
+          "asr_seconds": 2.582648600015091,
+          "translation_seconds": 0.06331309999222867
+        },
+        {
+          "source": "Sistema",
+          "start": 640.0,
+          "asr_seconds": 2.5237974999763537,
+          "translation_seconds": 0.06345090002287179
+        },
+        {
+          "source": "Sistema",
+          "start": 644.0,
+          "asr_seconds": 2.4382773999823257,
+          "translation_seconds": 0.0474672999989707
+        },
+        {
+          "source": "Sistema",
+          "start": 648.0,
+          "asr_seconds": 2.1532425000041258,
+          "translation_seconds": 0.034620099992025644
+        },
+        {
+          "source": "Sistema",
+          "start": 652.0,
+          "asr_seconds": 2.216099400015082,
+          "translation_seconds": 0.05298949999269098
+        },
+        {
+          "source": "Sistema",
+          "start": 656.0,
+          "asr_seconds": 2.0778589000110514,
+          "translation_seconds": 0.026829799986444414
+        },
+        {
+          "source": "Sistema",
+          "start": 660.0,
+          "asr_seconds": 2.1991267999983393,
+          "translation_seconds": 0.05939789998228662
+        },
+        {
+          "source": "Sistema",
+          "start": 664.0,
+          "asr_seconds": 2.246310499991523,
+          "translation_seconds": 0.07122109999181703
+        },
+        {
+          "source": "Sistema",
+          "start": 668.0,
+          "asr_seconds": 4.533647600008408,
+          "translation_seconds": 0.03520690000732429
+        },
+        {
+          "source": "Sistema",
+          "start": 672.0,
+          "asr_seconds": 2.1885148999572266,
+          "translation_seconds": 0.07086100004380569
+        },
+        {
+          "source": "Sistema",
+          "start": 676.0,
+          "asr_seconds": 2.1447508999845013,
+          "translation_seconds": 0.057070500013651326
+        },
+        {
+          "source": "Sistema",
+          "start": 680.0,
+          "asr_seconds": 2.052128100011032,
+          "translation_seconds": 0.01883859999361448
+        },
+        {
+          "source": "Sistema",
+          "start": 684.0,
+          "asr_seconds": 2.118608100019628,
+          "translation_seconds": 0.05577149998862296
+        },
+        {
+          "source": "Sistema",
+          "start": 688.0,
+          "asr_seconds": 2.4106793999962974,
+          "translation_seconds": 0.05910139999468811
+        },
+        {
+          "source": "Sistema",
+          "start": 692.0,
+          "asr_seconds": 2.575788200017996,
+          "translation_seconds": 0.09894550000899471
+        },
+        {
+          "source": "Sistema",
+          "start": 696.0,
+          "asr_seconds": 2.2727449999947567,
+          "translation_seconds": 0.06730389999574982
+        },
+        {
+          "source": "Sistema",
+          "start": 700.0,
+          "asr_seconds": 2.5374822999874596,
+          "translation_seconds": 0.07407740000053309
+        },
+        {
+          "source": "Sistema",
+          "start": 704.0,
+          "asr_seconds": 2.2722833000298124,
+          "translation_seconds": 0.047315899981185794
+        },
+        {
+          "source": "Sistema",
+          "start": 708.0,
+          "asr_seconds": 2.22560939998948,
+          "translation_seconds": 0.03332980000413954
+        },
+        {
+          "source": "Sistema",
+          "start": 712.0,
+          "asr_seconds": 2.3762083999754395,
+          "translation_seconds": 0.09459620001143776
+        },
+        {
+          "source": "Sistema",
+          "start": 716.0,
+          "asr_seconds": 2.1150485000107437,
+          "translation_seconds": 0.03425490000518039
+        },
+        {
+          "source": "Sistema",
+          "start": 720.0,
+          "asr_seconds": 1.995340900029987,
+          "translation_seconds": 0.0333688999817241
+        },
+        {
+          "source": "Sistema",
+          "start": 724.0,
+          "asr_seconds": 2.1056523000297602,
+          "translation_seconds": 0.054765099979704246
+        },
+        {
+          "source": "Sistema",
+          "start": 728.0,
+          "asr_seconds": 2.1179982000030577,
+          "translation_seconds": 0.05622260001837276
+        },
+        {
+          "source": "Sistema",
+          "start": 732.0,
+          "asr_seconds": 2.2829440999776125,
+          "translation_seconds": 0.0446972000063397
+        },
+        {
+          "source": "Sistema",
+          "start": 736.0,
+          "asr_seconds": 2.298215299990261,
+          "translation_seconds": 0.04239799999049865
+        },
+        {
+          "source": "Sistema",
+          "start": 740.0,
+          "asr_seconds": 2.0719961000140756,
+          "translation_seconds": 0.04679319998831488
+        },
+        {
+          "source": "Sistema",
+          "start": 744.0,
+          "asr_seconds": 2.089367799984757,
+          "translation_seconds": 0.04725740000139922
+        },
+        {
+          "source": "Sistema",
+          "start": 748.0,
+          "asr_seconds": 2.074748599989107,
+          "translation_seconds": 0.03451890000724234
+        },
+        {
+          "source": "Sistema",
+          "start": 752.0,
+          "asr_seconds": 2.0215741000138223,
+          "translation_seconds": 0.048201900004642084
+        },
+        {
+          "source": "Sistema",
+          "start": 756.0,
+          "asr_seconds": 2.0811654000135604,
+          "translation_seconds": 0.034590499999467283
+        },
+        {
+          "source": "Sistema",
+          "start": 760.0,
+          "asr_seconds": 2.320367400010582,
+          "translation_seconds": 0.05680479999864474
+        },
+        {
+          "source": "Sistema",
+          "start": 764.0,
+          "asr_seconds": 2.2399313999922015,
+          "translation_seconds": 0.050285000004805624
+        },
+        {
+          "source": "Sistema",
+          "start": 768.0,
+          "asr_seconds": 2.205720800004201,
+          "translation_seconds": 0.03572289997828193
+        },
+        {
+          "source": "Sistema",
+          "start": 772.0,
+          "asr_seconds": 2.172297300014179,
+          "translation_seconds": 0.03632199999992736
+        },
+        {
+          "source": "Sistema",
+          "start": 776.0,
+          "asr_seconds": 2.0517762000090443,
+          "translation_seconds": 0.05539439999847673
+        },
+        {
+          "source": "Sistema",
+          "start": 780.0,
+          "asr_seconds": 1.887116400001105,
+          "translation_seconds": 0.026699300011387095
+        },
+        {
+          "source": "Sistema",
+          "start": 784.0,
+          "asr_seconds": 1.9843727000115905,
+          "translation_seconds": 0.06658149999566376
+        },
+        {
+          "source": "Sistema",
+          "start": 788.0,
+          "asr_seconds": 2.1000835999730043,
+          "translation_seconds": 0.07645970000885427
+        },
+        {
+          "source": "Sistema",
+          "start": 792.0,
+          "asr_seconds": 4.0047698999987915,
+          "translation_seconds": 0.042574699997203425
+        },
+        {
+          "source": "Sistema",
+          "start": 796.0,
+          "asr_seconds": 1.9238405000069179,
+          "translation_seconds": 0.05727570000453852
+        },
+        {
+          "source": "Sistema",
+          "start": 800.0,
+          "asr_seconds": 1.821145100024296,
+          "translation_seconds": 0.03959459997713566
+        },
+        {
+          "source": "Sistema",
+          "start": 804.0,
+          "asr_seconds": 4.057482000003802,
+          "translation_seconds": 0.04814450000412762
+        },
+        {
+          "source": "Sistema",
+          "start": 808.0,
+          "asr_seconds": 1.8140763000119478,
+          "translation_seconds": 0.06579180000699125
+        },
+        {
+          "source": "Sistema",
+          "start": 812.0,
+          "asr_seconds": 1.9416158999956679,
+          "translation_seconds": 0.05135659998632036
+        },
+        {
+          "source": "Sistema",
+          "start": 816.0,
+          "asr_seconds": 1.850509099982446,
+          "translation_seconds": 0.04902220002259128
+        },
+        {
+          "source": "Sistema",
+          "start": 820.0,
+          "asr_seconds": 1.957928499992704,
+          "translation_seconds": 0.04495540002244525
+        },
+        {
+          "source": "Sistema",
+          "start": 824.0,
+          "asr_seconds": 1.8818665000144392,
+          "translation_seconds": 0.04940600000554696
+        },
+        {
+          "source": "Sistema",
+          "start": 828.0,
+          "asr_seconds": 1.968584300018847,
+          "translation_seconds": 0.04918639999232255
+        },
+        {
+          "source": "Sistema",
+          "start": 832.0,
+          "asr_seconds": 2.0625277000071947,
+          "translation_seconds": 0.04197109999950044
+        },
+        {
+          "source": "Sistema",
+          "start": 836.0,
+          "asr_seconds": 5.7666136000189,
+          "translation_seconds": 0.26231589997769333
+        },
+        {
+          "source": "Sistema",
+          "start": 840.0,
+          "asr_seconds": 5.7198944999836385,
+          "translation_seconds": 0.15265760000329465
+        },
+        {
+          "source": "Sistema",
+          "start": 844.0,
+          "asr_seconds": 5.39914530000533,
+          "translation_seconds": 0.1054242999816779
+        },
+        {
+          "source": "Sistema",
+          "start": 848.0,
+          "asr_seconds": 5.601324799965369,
+          "translation_seconds": 0.1548822000331711
+        },
+        {
+          "source": "Sistema",
+          "start": 852.0,
+          "asr_seconds": 6.149765700014541,
+          "translation_seconds": 0.0981737999827601
+        },
+        {
+          "source": "Sistema",
+          "start": 856.0,
+          "asr_seconds": 5.5040101000340655,
+          "translation_seconds": 0.10930679997545667
+        },
+        {
+          "source": "Sistema",
+          "start": 860.0,
+          "asr_seconds": 6.621537400002126,
+          "translation_seconds": 0.1049879000056535
+        },
+        {
+          "source": "Sistema",
+          "start": 864.0,
+          "asr_seconds": 5.498593600001186,
+          "translation_seconds": 0.13940529999672435
+        },
+        {
+          "source": "Sistema",
+          "start": 868.0,
+          "asr_seconds": 5.449958999990486,
+          "translation_seconds": 0.128293300018413
+        },
+        {
+          "source": "Sistema",
+          "start": 872.0,
+          "asr_seconds": 5.438848000019789,
+          "translation_seconds": 0.09971199999563396
+        },
+        {
+          "source": "Sistema",
+          "start": 876.0,
+          "asr_seconds": 5.891585600009421,
+          "translation_seconds": 0.1334688999922946
+        },
+        {
+          "source": "Sistema",
+          "start": 880.0,
+          "asr_seconds": 6.319661199988332,
+          "translation_seconds": 0.1360696000047028
+        },
+        {
+          "source": "Sistema",
+          "start": 884.0,
+          "asr_seconds": 5.960534400015604,
+          "translation_seconds": 0.15873139997711405
+        },
+        {
+          "source": "Sistema",
+          "start": 888.0,
+          "asr_seconds": 5.557409399974858,
+          "translation_seconds": 0.1531089000054635
+        },
+        {
+          "source": "Sistema",
+          "start": 892.0,
+          "asr_seconds": 5.476782100013224,
+          "translation_seconds": 0.1008397999976296
+        },
+        {
+          "source": "Sistema",
+          "start": 896.0,
+          "asr_seconds": 5.497763999999734,
+          "translation_seconds": 0.13321969998651184
+        }
+      ]
+    },
+    {
+      "model": "base.en",
+      "synthetic_audio_seconds": 900,
+      "completed_synthetic_seconds": 900,
+      "segments": 425,
+      "errors": [],
+      "latency_median_seconds": 3.158,
+      "latency_p95_seconds": 5.636,
+      "latency_max_seconds": 6.852,
+      "max_pending_audio_seconds": 9.0,
+      "final_pending_audio_seconds": 0,
+      "first_transcript": "Hello. This application translates English into Spanish.",
+      "last_transcript": "All audio is processed on this.",
+      "timing": [
+        {
+          "source": "Sistema",
+          "start": 0.0,
+          "asr_seconds": 2.3588443000335246,
+          "translation_seconds": 0.22364449998713098
+        },
+        {
+          "source": "Sistema",
+          "start": 4.0,
+          "asr_seconds": 1.8178016000019852,
+          "translation_seconds": 0.1577936999965459
+        },
+        {
+          "source": "Sistema",
+          "start": 8.0,
+          "asr_seconds": 1.734138100000564,
+          "translation_seconds": 0.15336950001074
+        },
+        {
+          "source": "Sistema",
+          "start": 12.0,
+          "asr_seconds": 1.7026731000223663,
+          "translation_seconds": 0.17038919997867197
+        },
+        {
+          "source": "Sistema",
+          "start": 16.0,
+          "asr_seconds": 1.745286900026258,
+          "translation_seconds": 0.15094939997652546
+        },
+        {
+          "source": "Sistema",
+          "start": 20.0,
+          "asr_seconds": 1.670882200007327,
+          "translation_seconds": 0.14868919999571517
+        },
+        {
+          "source": "Sistema",
+          "start": 24.0,
+          "asr_seconds": 3.335325499996543,
+          "translation_seconds": 0.15671520002069883
+        },
+        {
+          "source": "Sistema",
+          "start": 28.0,
+          "asr_seconds": 1.7641984000219963,
+          "translation_seconds": 0.1568251999851782
+        },
+        {
+          "source": "Sistema",
+          "start": 32.0,
+          "asr_seconds": 1.9667728000204079,
+          "translation_seconds": 0.14467359997797757
+        },
+        {
+          "source": "Sistema",
+          "start": 36.0,
+          "asr_seconds": 1.6508083999797236,
+          "translation_seconds": 0.1318306000030134
+        },
+        {
+          "source": "Sistema",
+          "start": 40.0,
+          "asr_seconds": 1.7487421999685466,
+          "translation_seconds": 0.2009086000325624
+        },
+        {
+          "source": "Sistema",
+          "start": 44.0,
+          "asr_seconds": 1.9009590000205208,
+          "translation_seconds": 0.1852717999718152
+        },
+        {
+          "source": "Sistema",
+          "start": 48.0,
+          "asr_seconds": 2.0615480999986175,
+          "translation_seconds": 0.04113779999897815
+        },
+        {
+          "source": "Sistema",
+          "start": 52.0,
+          "asr_seconds": 1.8626808999688365,
+          "translation_seconds": 0.18245770002249628
+        },
+        {
+          "source": "Sistema",
+          "start": 56.0,
+          "asr_seconds": 1.7510855000291485,
+          "translation_seconds": 0.23946719997911714
+        },
+        {
+          "source": "Sistema",
+          "start": 60.0,
+          "asr_seconds": 1.7263859999657143,
+          "translation_seconds": 0.16231080002035014
+        },
+        {
+          "source": "Sistema",
+          "start": 64.0,
+          "asr_seconds": 3.45347540001967,
+          "translation_seconds": 0.15290609997464344
+        },
+        {
+          "source": "Sistema",
+          "start": 68.0,
+          "asr_seconds": 1.795993699983228,
+          "translation_seconds": 0.20746979999239556
+        },
+        {
+          "source": "Sistema",
+          "start": 72.0,
+          "asr_seconds": 3.3817556999856606,
+          "translation_seconds": 0.14370740001322702
+        },
+        {
+          "source": "Sistema",
+          "start": 76.0,
+          "asr_seconds": 1.756044199981261,
+          "translation_seconds": 0.17960970001877286
+        },
+        {
+          "source": "Sistema",
+          "start": 80.0,
+          "asr_seconds": 3.5482641000126023,
+          "translation_seconds": 0.17675069998949766
+        },
+        {
+          "source": "Sistema",
+          "start": 84.0,
+          "asr_seconds": 1.9554245999606792,
+          "translation_seconds": 0.15022760003921576
+        },
+        {
+          "source": "Sistema",
+          "start": 88.0,
+          "asr_seconds": 1.6455223999801092,
+          "translation_seconds": 0.15373180000460707
+        },
+        {
+          "source": "Sistema",
+          "start": 92.0,
+          "asr_seconds": 1.806567499996163,
+          "translation_seconds": 0.24796060001244769
+        },
+        {
+          "source": "Sistema",
+          "start": 96.0,
+          "asr_seconds": 1.7045114999928046,
+          "translation_seconds": 0.14258960002916865
+        },
+        {
+          "source": "Sistema",
+          "start": 100.0,
+          "asr_seconds": 1.6426238000276498,
+          "translation_seconds": 0.0983082999882754
+        },
+        {
+          "source": "Sistema",
+          "start": 104.0,
+          "asr_seconds": 1.75548529997468,
+          "translation_seconds": 0.26117260003229603
+        },
+        {
+          "source": "Sistema",
+          "start": 108.0,
+          "asr_seconds": 1.6957190999819431,
+          "translation_seconds": 0.1599665000103414
+        },
+        {
+          "source": "Sistema",
+          "start": 112.0,
+          "asr_seconds": 1.6801704999816138,
+          "translation_seconds": 0.09612530001322739
+        },
+        {
+          "source": "Sistema",
+          "start": 116.0,
+          "asr_seconds": 3.5294676999910735,
+          "translation_seconds": 0.15809330000774935
+        },
+        {
+          "source": "Sistema",
+          "start": 120.0,
+          "asr_seconds": 1.7423144000058528,
+          "translation_seconds": 0.17538580001564696
+        },
+        {
+          "source": "Sistema",
+          "start": 124.0,
+          "asr_seconds": 1.7995770999987144,
+          "translation_seconds": 0.1768863000033889
+        },
+        {
+          "source": "Sistema",
+          "start": 128.0,
+          "asr_seconds": 3.3142143999866676,
+          "translation_seconds": 0.24137430000700988
+        },
+        {
+          "source": "Sistema",
+          "start": 132.0,
+          "asr_seconds": 1.7680674999719486,
+          "translation_seconds": 0.15495120000559837
+        },
+        {
+          "source": "Sistema",
+          "start": 136.0,
+          "asr_seconds": 1.9008061999920756,
+          "translation_seconds": 0.1377220000140369
+        },
+        {
+          "source": "Sistema",
+          "start": 140.0,
+          "asr_seconds": 1.7155203000002075,
+          "translation_seconds": 0.125777500012191
+        },
+        {
+          "source": "Sistema",
+          "start": 144.0,
+          "asr_seconds": 1.9512981999723706,
+          "translation_seconds": 0.1375980000011623
+        },
+        {
+          "source": "Sistema",
+          "start": 148.0,
+          "asr_seconds": 1.636423999996623,
+          "translation_seconds": 0.11283499997807667
+        },
+        {
+          "source": "Sistema",
+          "start": 152.0,
+          "asr_seconds": 1.8019805000221822,
+          "translation_seconds": 0.15238139999564737
+        },
+        {
+          "source": "Sistema",
+          "start": 156.0,
+          "asr_seconds": 2.244021500024246,
+          "translation_seconds": 0.13186080000014044
+        },
+        {
+          "source": "Sistema",
+          "start": 160.0,
+          "asr_seconds": 1.8953335000260267,
+          "translation_seconds": 0.2466862999717705
+        },
+        {
+          "source": "Sistema",
+          "start": 164.0,
+          "asr_seconds": 1.7683023000136018,
+          "translation_seconds": 0.17160609998973086
+        },
+        {
+          "source": "Sistema",
+          "start": 168.0,
+          "asr_seconds": 1.8076946000219323,
+          "translation_seconds": 0.20354499999666587
+        },
+        {
+          "source": "Sistema",
+          "start": 172.0,
+          "asr_seconds": 2.0916384999873117,
+          "translation_seconds": 0.04099340000539087
+        },
+        {
+          "source": "Sistema",
+          "start": 176.0,
+          "asr_seconds": 3.4283584999502636,
+          "translation_seconds": 0.24117970003862865
+        },
+        {
+          "source": "Sistema",
+          "start": 180.0,
+          "asr_seconds": 2.0046103000058793,
+          "translation_seconds": 0.19344689999707043
+        },
+        {
+          "source": "Sistema",
+          "start": 184.0,
+          "asr_seconds": 2.688056399987545,
+          "translation_seconds": 0.16467010002816096
+        },
+        {
+          "source": "Sistema",
+          "start": 188.0,
+          "asr_seconds": 4.550202100013848,
+          "translation_seconds": 0.19890429999213666
+        },
+        {
+          "source": "Sistema",
+          "start": 192.0,
+          "asr_seconds": 1.9142391000059433,
+          "translation_seconds": 0.21630469997762702
+        },
+        {
+          "source": "Sistema",
+          "start": 196.0,
+          "asr_seconds": 3.2089236000028905,
+          "translation_seconds": 0.04291029999149032
+        },
+        {
+          "source": "Sistema",
+          "start": 200.0,
+          "asr_seconds": 3.6864030999713577,
+          "translation_seconds": 0.1974099000217393
+        },
+        {
+          "source": "Sistema",
+          "start": 204.0,
+          "asr_seconds": 1.9443975999893155,
+          "translation_seconds": 0.1820756000233814
+        },
+        {
+          "source": "Sistema",
+          "start": 208.0,
+          "asr_seconds": 3.518166999972891,
+          "translation_seconds": 0.20718110000598244
+        },
+        {
+          "source": "Sistema",
+          "start": 212.0,
+          "asr_seconds": 1.7294325000257231,
+          "translation_seconds": 0.1772575999784749
+        },
+        {
+          "source": "Sistema",
+          "start": 216.0,
+          "asr_seconds": 2.254347499983851,
+          "translation_seconds": 0.16695670000626706
+        },
+        {
+          "source": "Sistema",
+          "start": 220.0,
+          "asr_seconds": 1.6547164999647066,
+          "translation_seconds": 0.14248760003829375
+        },
+        {
+          "source": "Sistema",
+          "start": 224.0,
+          "asr_seconds": 1.6391954999999143,
+          "translation_seconds": 0.09600009999121539
+        },
+        {
+          "source": "Sistema",
+          "start": 228.0,
+          "asr_seconds": 1.7057333999837283,
+          "translation_seconds": 0.20914180000545457
+        },
+        {
+          "source": "Sistema",
+          "start": 232.0,
+          "asr_seconds": 1.7711919000430498,
+          "translation_seconds": 0.18078319996129721
+        },
+        {
+          "source": "Sistema",
+          "start": 236.0,
+          "asr_seconds": 1.6890001000138,
+          "translation_seconds": 0.10708950000116602
+        },
+        {
+          "source": "Sistema",
+          "start": 240.0,
+          "asr_seconds": 1.7771865999966394,
+          "translation_seconds": 0.18220119999023154
+        },
+        {
+          "source": "Sistema",
+          "start": 244.0,
+          "asr_seconds": 1.8342354999913368,
+          "translation_seconds": 0.1577331000007689
+        },
+        {
+          "source": "Sistema",
+          "start": 248.0,
+          "asr_seconds": 1.7481338999932632,
+          "translation_seconds": 0.15935800000443123
+        },
+        {
+          "source": "Sistema",
+          "start": 252.0,
+          "asr_seconds": 1.7875918000354432,
+          "translation_seconds": 0.16442329998244531
+        },
+        {
+          "source": "Sistema",
+          "start": 256.0,
+          "asr_seconds": 1.7369853999989573,
+          "translation_seconds": 0.1547056999988854
+        },
+        {
+          "source": "Sistema",
+          "start": 260.0,
+          "asr_seconds": 3.3095992999733426,
+          "translation_seconds": 0.2017284000176005
+        },
+        {
+          "source": "Sistema",
+          "start": 264.0,
+          "asr_seconds": 1.827765800000634,
+          "translation_seconds": 0.1188636000151746
+        },
+        {
+          "source": "Sistema",
+          "start": 268.0,
+          "asr_seconds": 1.7723787000286393,
+          "translation_seconds": 0.16750449998653494
+        },
+        {
+          "source": "Sistema",
+          "start": 272.0,
+          "asr_seconds": 1.7370095000078436,
+          "translation_seconds": 0.18840320000890642
+        },
+        {
+          "source": "Sistema",
+          "start": 276.0,
+          "asr_seconds": 1.8870095000311267,
+          "translation_seconds": 0.1468017999723088
+        },
+        {
+          "source": "Sistema",
+          "start": 280.0,
+          "asr_seconds": 1.9840519999852404,
+          "translation_seconds": 0.17696280000382103
+        },
+        {
+          "source": "Sistema",
+          "start": 284.0,
+          "asr_seconds": 3.60622900002636,
+          "translation_seconds": 0.13339299996732734
+        },
+        {
+          "source": "Sistema",
+          "start": 288.0,
+          "asr_seconds": 1.7468179000134114,
+          "translation_seconds": 0.17062499999883585
+        },
+        {
+          "source": "Sistema",
+          "start": 292.0,
+          "asr_seconds": 1.8018262000114191,
+          "translation_seconds": 0.157081899989862
+        },
+        {
+          "source": "Sistema",
+          "start": 296.0,
+          "asr_seconds": 2.112928999995347,
+          "translation_seconds": 0.05024680000497028
+        },
+        {
+          "source": "Sistema",
+          "start": 300.0,
+          "asr_seconds": 3.3869616000156384,
+          "translation_seconds": 0.22928669999237172
+        },
+        {
+          "source": "Sistema",
+          "start": 304.0,
+          "asr_seconds": 1.9416251999791712,
+          "translation_seconds": 0.19585930003086105
+        },
+        {
+          "source": "Sistema",
+          "start": 308.0,
+          "asr_seconds": 3.6596805000153836,
+          "translation_seconds": 0.08536569998250343
+        },
+        {
+          "source": "Sistema",
+          "start": 312.0,
+          "asr_seconds": 1.8479447000136133,
+          "translation_seconds": 0.1754600999993272
+        },
+        {
+          "source": "Sistema",
+          "start": 316.0,
+          "asr_seconds": 1.7817035000189207,
+          "translation_seconds": 0.2706574999901932
+        },
+        {
+          "source": "Sistema",
+          "start": 320.0,
+          "asr_seconds": 3.455878200009465,
+          "translation_seconds": 0.13484089999110438
+        },
+        {
+          "source": "Sistema",
+          "start": 324.0,
+          "asr_seconds": 1.7966621999803465,
+          "translation_seconds": 0.17365670000435784
+        },
+        {
+          "source": "Sistema",
+          "start": 328.0,
+          "asr_seconds": 1.7521469999628607,
+          "translation_seconds": 0.18114650002098642
+        },
+        {
+          "source": "Sistema",
+          "start": 332.0,
+          "asr_seconds": 1.7186079999955837,
+          "translation_seconds": 0.15429750000475906
+        },
+        {
+          "source": "Sistema",
+          "start": 336.0,
+          "asr_seconds": 1.7110362999665085,
+          "translation_seconds": 0.17917670001043007
+        },
+        {
+          "source": "Sistema",
+          "start": 340.0,
+          "asr_seconds": 1.7444485999876633,
+          "translation_seconds": 0.1761920000135433
+        },
+        {
+          "source": "Sistema",
+          "start": 344.0,
+          "asr_seconds": 1.7376491999602877,
+          "translation_seconds": 0.17305800001486205
+        },
+        {
+          "source": "Sistema",
+          "start": 348.0,
+          "asr_seconds": 1.6408644999901298,
+          "translation_seconds": 0.09674869998707436
+        },
+        {
+          "source": "Sistema",
+          "start": 352.0,
+          "asr_seconds": 2.2380652999854647,
+          "translation_seconds": 0.172167900018394
+        },
+        {
+          "source": "Sistema",
+          "start": 356.0,
+          "asr_seconds": 1.816959100018721,
+          "translation_seconds": 0.15973689997917973
+        },
+        {
+          "source": "Sistema",
+          "start": 360.0,
+          "asr_seconds": 1.4395764999790117,
+          "translation_seconds": 0.09851030001300387
+        },
+        {
+          "source": "Sistema",
+          "start": 364.0,
+          "asr_seconds": 1.7252054999989923,
+          "translation_seconds": 0.19282930000917986
+        },
+        {
+          "source": "Sistema",
+          "start": 368.0,
+          "asr_seconds": 1.759487800009083,
+          "translation_seconds": 0.172637699986808
+        },
+        {
+          "source": "Sistema",
+          "start": 372.0,
+          "asr_seconds": 1.8614426999702118,
+          "translation_seconds": 0.12945430001127534
+        },
+        {
+          "source": "Sistema",
+          "start": 376.0,
+          "asr_seconds": 2.6403480999870226,
+          "translation_seconds": 0.2013118000177201
+        },
+        {
+          "source": "Sistema",
+          "start": 380.0,
+          "asr_seconds": 1.7315320000052452,
+          "translation_seconds": 0.16843140000128187
+        },
+        {
+          "source": "Sistema",
+          "start": 384.0,
+          "asr_seconds": 1.7335615000047255,
+          "translation_seconds": 0.1627907999791205
+        },
+        {
+          "source": "Sistema",
+          "start": 388.0,
+          "asr_seconds": 1.8301415000169072,
+          "translation_seconds": 0.1675682999775745
+        },
+        {
+          "source": "Sistema",
+          "start": 392.0,
+          "asr_seconds": 1.997170400019968,
+          "translation_seconds": 0.1636411999934353
+        },
+        {
+          "source": "Sistema",
+          "start": 396.0,
+          "asr_seconds": 1.7215712000324856,
+          "translation_seconds": 0.1358561999804806
+        },
+        {
+          "source": "Sistema",
+          "start": 400.0,
+          "asr_seconds": 1.7422763999784365,
+          "translation_seconds": 0.18369390000589192
+        },
+        {
+          "source": "Sistema",
+          "start": 404.0,
+          "asr_seconds": 1.912488200032385,
+          "translation_seconds": 0.22721529999398626
+        },
+        {
+          "source": "Sistema",
+          "start": 408.0,
+          "asr_seconds": 1.9906888000259642,
+          "translation_seconds": 0.10424139999668114
+        },
+        {
+          "source": "Sistema",
+          "start": 412.0,
+          "asr_seconds": 1.7919695999880787,
+          "translation_seconds": 0.16899370000464842
+        },
+        {
+          "source": "Sistema",
+          "start": 416.0,
+          "asr_seconds": 1.9300495999923442,
+          "translation_seconds": 0.143059699999867
+        },
+        {
+          "source": "Sistema",
+          "start": 420.0,
+          "asr_seconds": 2.032600199978333,
+          "translation_seconds": 0.12946030002785847
+        },
+        {
+          "source": "Sistema",
+          "start": 424.0,
+          "asr_seconds": 1.8940628000127617,
+          "translation_seconds": 0.22370979998959228
+        },
+        {
+          "source": "Sistema",
+          "start": 428.0,
+          "asr_seconds": 1.934996099997079,
+          "translation_seconds": 0.20509319999837317
+        },
+        {
+          "source": "Sistema",
+          "start": 432.0,
+          "asr_seconds": 3.398780399991665,
+          "translation_seconds": 0.042547899996861815
+        },
+        {
+          "source": "Sistema",
+          "start": 436.0,
+          "asr_seconds": 1.9638486999901943,
+          "translation_seconds": 0.17144269999698736
+        },
+        {
+          "source": "Sistema",
+          "start": 440.0,
+          "asr_seconds": 1.8279253999935463,
+          "translation_seconds": 0.2124167000001762
+        },
+        {
+          "source": "Sistema",
+          "start": 444.0,
+          "asr_seconds": 1.767913400020916,
+          "translation_seconds": 0.2048153999785427
+        },
+        {
+          "source": "Sistema",
+          "start": 448.0,
+          "asr_seconds": 3.1423081000102684,
+          "translation_seconds": 0.14993839999078773
+        },
+        {
+          "source": "Sistema",
+          "start": 452.0,
+          "asr_seconds": 1.8638076000206638,
+          "translation_seconds": 0.191608399967663
+        },
+        {
+          "source": "Sistema",
+          "start": 456.0,
+          "asr_seconds": 1.7913229000405408,
+          "translation_seconds": 0.1213195999735035
+        },
+        {
+          "source": "Sistema",
+          "start": 460.0,
+          "asr_seconds": 1.8301848999981303,
+          "translation_seconds": 0.16222019999986514
+        },
+        {
+          "source": "Sistema",
+          "start": 464.0,
+          "asr_seconds": 1.7653284999832977,
+          "translation_seconds": 0.17188150002039038
+        },
+        {
+          "source": "Sistema",
+          "start": 468.0,
+          "asr_seconds": 1.7670135999796912,
+          "translation_seconds": 0.17755210000905208
+        },
+        {
+          "source": "Sistema",
+          "start": 472.0,
+          "asr_seconds": 1.676690599997528,
+          "translation_seconds": 0.09416700000292622
+        },
+        {
+          "source": "Sistema",
+          "start": 476.0,
+          "asr_seconds": 2.2276788999442942,
+          "translation_seconds": 0.1745966000307817
+        },
+        {
+          "source": "Sistema",
+          "start": 480.0,
+          "asr_seconds": 2.042367500020191,
+          "translation_seconds": 0.1503266999789048
+        },
+        {
+          "source": "Sistema",
+          "start": 484.0,
+          "asr_seconds": 1.7291257999895606,
+          "translation_seconds": 0.13048750002053566
+        },
+        {
+          "source": "Sistema",
+          "start": 488.0,
+          "asr_seconds": 1.789217199984705,
+          "translation_seconds": 0.20204940001713112
+        },
+        {
+          "source": "Sistema",
+          "start": 492.0,
+          "asr_seconds": 1.6818137999798637,
+          "translation_seconds": 0.13253570001688786
+        },
+        {
+          "source": "Sistema",
+          "start": 496.0,
+          "asr_seconds": 1.9798390999785624,
+          "translation_seconds": 0.1482401000102982
+        },
+        {
+          "source": "Sistema",
+          "start": 500.0,
+          "asr_seconds": 1.6911445000150707,
+          "translation_seconds": 0.16075489998911507
+        },
+        {
+          "source": "Sistema",
+          "start": 504.0,
+          "asr_seconds": 1.9602369999629445,
+          "translation_seconds": 0.14791240001795813
+        },
+        {
+          "source": "Sistema",
+          "start": 508.0,
+          "asr_seconds": 1.6656663999892771,
+          "translation_seconds": 0.14535340000293218
+        },
+        {
+          "source": "Sistema",
+          "start": 512.0,
+          "asr_seconds": 1.6864371999981813,
+          "translation_seconds": 0.14867109997430816
+        },
+        {
+          "source": "Sistema",
+          "start": 516.0,
+          "asr_seconds": 1.6864695999829564,
+          "translation_seconds": 0.15995600001770072
+        },
+        {
+          "source": "Sistema",
+          "start": 520.0,
+          "asr_seconds": 3.321465600049123,
+          "translation_seconds": 0.18150579996290617
+        },
+        {
+          "source": "Sistema",
+          "start": 524.0,
+          "asr_seconds": 1.6872585999954026,
+          "translation_seconds": 0.16961270000319928
+        },
+        {
+          "source": "Sistema",
+          "start": 528.0,
+          "asr_seconds": 1.9147404999821447,
+          "translation_seconds": 0.30656830000225455
+        },
+        {
+          "source": "Sistema",
+          "start": 532.0,
+          "asr_seconds": 2.2476635000202805,
+          "translation_seconds": 0.03854949999367818
+        },
+        {
+          "source": "Sistema",
+          "start": 536.0,
+          "asr_seconds": 1.7531942000205163,
+          "translation_seconds": 0.2080157999880612
+        },
+        {
+          "source": "Sistema",
+          "start": 540.0,
+          "asr_seconds": 1.7764226999715902,
+          "translation_seconds": 0.20850240002619103
+        },
+        {
+          "source": "Sistema",
+          "start": 544.0,
+          "asr_seconds": 1.6724802000098862,
+          "translation_seconds": 0.08309599998756312
+        },
+        {
+          "source": "Sistema",
+          "start": 548.0,
+          "asr_seconds": 1.7400768999941647,
+          "translation_seconds": 0.1972443000122439
+        },
+        {
+          "source": "Sistema",
+          "start": 552.0,
+          "asr_seconds": 1.8549458000052255,
+          "translation_seconds": 0.186937599995872
+        },
+        {
+          "source": "Sistema",
+          "start": 556.0,
+          "asr_seconds": 3.3635689000075217,
+          "translation_seconds": 0.09535619997768663
+        },
+        {
+          "source": "Sistema",
+          "start": 560.0,
+          "asr_seconds": 1.963611499988474,
+          "translation_seconds": 0.2106121999968309
+        },
+        {
+          "source": "Sistema",
+          "start": 564.0,
+          "asr_seconds": 3.345063399989158,
+          "translation_seconds": 0.16370960001950152
+        },
+        {
+          "source": "Sistema",
+          "start": 568.0,
+          "asr_seconds": 3.186477899987949,
+          "translation_seconds": 0.16076550001162104
+        },
+        {
+          "source": "Sistema",
+          "start": 572.0,
+          "asr_seconds": 2.114465899998322,
+          "translation_seconds": 0.1480669000011403
+        },
+        {
+          "source": "Sistema",
+          "start": 576.0,
+          "asr_seconds": 1.7423113999830093,
+          "translation_seconds": 0.21375759999500588
+        },
+        {
+          "source": "Sistema",
+          "start": 580.0,
+          "asr_seconds": 1.701300100015942,
+          "translation_seconds": 0.13102639999124222
+        },
+        {
+          "source": "Sistema",
+          "start": 584.0,
+          "asr_seconds": 1.6616890000004787,
+          "translation_seconds": 0.09476060001179576
+        },
+        {
+          "source": "Sistema",
+          "start": 588.0,
+          "asr_seconds": 1.7618488999723922,
+          "translation_seconds": 0.19718090002425015
+        },
+        {
+          "source": "Sistema",
+          "start": 592.0,
+          "asr_seconds": 1.8007959999958985,
+          "translation_seconds": 0.1682740000251215
+        },
+        {
+          "source": "Sistema",
+          "start": 596.0,
+          "asr_seconds": 1.742237699974794,
+          "translation_seconds": 0.15948700002627447
+        },
+        {
+          "source": "Sistema",
+          "start": 600.0,
+          "asr_seconds": 1.7242583000042941,
+          "translation_seconds": 0.202888100000564
+        },
+        {
+          "source": "Sistema",
+          "start": 604.0,
+          "asr_seconds": 2.133367400034331,
+          "translation_seconds": 0.19621809996897355
+        },
+        {
+          "source": "Sistema",
+          "start": 608.0,
+          "asr_seconds": 1.6699404000246432,
+          "translation_seconds": 0.09251879999646917
+        },
+        {
+          "source": "Sistema",
+          "start": 612.0,
+          "asr_seconds": 3.3119598999910522,
+          "translation_seconds": 0.23027720002573915
+        },
+        {
+          "source": "Sistema",
+          "start": 616.0,
+          "asr_seconds": 1.6871781000227202,
+          "translation_seconds": 0.16131599998334423
+        },
+        {
+          "source": "Sistema",
+          "start": 620.0,
+          "asr_seconds": 1.6675199999881443,
+          "translation_seconds": 0.1455724000115879
+        },
+        {
+          "source": "Sistema",
+          "start": 624.0,
+          "asr_seconds": 1.7251592999964487,
+          "translation_seconds": 0.17694599999231286
+        },
+        {
+          "source": "Sistema",
+          "start": 628.0,
+          "asr_seconds": 1.684972699964419,
+          "translation_seconds": 0.16341490001650527
+        },
+        {
+          "source": "Sistema",
+          "start": 632.0,
+          "asr_seconds": 3.180774800013751,
+          "translation_seconds": 0.15792519997921772
+        },
+        {
+          "source": "Sistema",
+          "start": 636.0,
+          "asr_seconds": 1.8361777999962214,
+          "translation_seconds": 0.15016859999741428
+        },
+        {
+          "source": "Sistema",
+          "start": 640.0,
+          "asr_seconds": 1.801931499998318,
+          "translation_seconds": 0.32830429999739863
+        },
+        {
+          "source": "Sistema",
+          "start": 644.0,
+          "asr_seconds": 3.7518445999885444,
+          "translation_seconds": 0.13470960000995547
+        },
+        {
+          "source": "Sistema",
+          "start": 648.0,
+          "asr_seconds": 1.8907455999578815,
+          "translation_seconds": 0.15454300004057586
+        },
+        {
+          "source": "Sistema",
+          "start": 652.0,
+          "asr_seconds": 1.7980619999871124,
+          "translation_seconds": 0.25056080002104864
+        },
+        {
+          "source": "Sistema",
+          "start": 656.0,
+          "asr_seconds": 3.1413231000187807,
+          "translation_seconds": 0.19868489998043515
+        },
+        {
+          "source": "Sistema",
+          "start": 660.0,
+          "asr_seconds": 1.7414884000318125,
+          "translation_seconds": 0.26253919998998754
+        },
+        {
+          "source": "Sistema",
+          "start": 664.0,
+          "asr_seconds": 1.7202629999956116,
+          "translation_seconds": 0.17418949998682365
+        },
+        {
+          "source": "Sistema",
+          "start": 668.0,
+          "asr_seconds": 2.749900800001342,
+          "translation_seconds": 0.16104579999228008
+        },
+        {
+          "source": "Sistema",
+          "start": 672.0,
+          "asr_seconds": 1.8750453999673482,
+          "translation_seconds": 0.18022170002222992
+        },
+        {
+          "source": "Sistema",
+          "start": 676.0,
+          "asr_seconds": 2.058162999979686,
+          "translation_seconds": 0.18677289999322966
+        },
+        {
+          "source": "Sistema",
+          "start": 680.0,
+          "asr_seconds": 3.609519900055602,
+          "translation_seconds": 0.1484198999532964
+        },
+        {
+          "source": "Sistema",
+          "start": 684.0,
+          "asr_seconds": 2.355191000038758,
+          "translation_seconds": 0.18718719997559674
+        },
+        {
+          "source": "Sistema",
+          "start": 688.0,
+          "asr_seconds": 3.639477800024906,
+          "translation_seconds": 0.1956229999777861
+        },
+        {
+          "source": "Sistema",
+          "start": 692.0,
+          "asr_seconds": 1.7325649000122212,
+          "translation_seconds": 0.17376370000420138
+        },
+        {
+          "source": "Sistema",
+          "start": 696.0,
+          "asr_seconds": 2.0900767000275664,
+          "translation_seconds": 0.17806739997467957
+        },
+        {
+          "source": "Sistema",
+          "start": 700.0,
+          "asr_seconds": 3.4732159999839496,
+          "translation_seconds": 0.17118640002445318
+        },
+        {
+          "source": "Sistema",
+          "start": 704.0,
+          "asr_seconds": 1.6706683000084013,
+          "translation_seconds": 0.12630189998890273
+        },
+        {
+          "source": "Sistema",
+          "start": 708.0,
+          "asr_seconds": 1.7104599000012968,
+          "translation_seconds": 0.12191560000064783
+        },
+        {
+          "source": "Sistema",
+          "start": 712.0,
+          "asr_seconds": 1.7686655000143219,
+          "translation_seconds": 0.19522779999533668
+        },
+        {
+          "source": "Sistema",
+          "start": 716.0,
+          "asr_seconds": 2.420336400013184,
+          "translation_seconds": 0.27789040000061505
+        },
+        {
+          "source": "Sistema",
+          "start": 720.0,
+          "asr_seconds": 1.6545561000239104,
+          "translation_seconds": 0.0946121999877505
+        },
+        {
+          "source": "Sistema",
+          "start": 724.0,
+          "asr_seconds": 1.876416999992216,
+          "translation_seconds": 0.18132229999173433
+        },
+        {
+          "source": "Sistema",
+          "start": 728.0,
+          "asr_seconds": 1.7731461999937892,
+          "translation_seconds": 0.17946980000124313
+        },
+        {
+          "source": "Sistema",
+          "start": 732.0,
+          "asr_seconds": 1.7655454000050668,
+          "translation_seconds": 0.13552519999211654
+        },
+        {
+          "source": "Sistema",
+          "start": 736.0,
+          "asr_seconds": 1.7938742999976967,
+          "translation_seconds": 0.2347981000202708
+        },
+        {
+          "source": "Sistema",
+          "start": 740.0,
+          "asr_seconds": 1.64298009997583,
+          "translation_seconds": 0.13801670001703314
+        },
+        {
+          "source": "Sistema",
+          "start": 744.0,
+          "asr_seconds": 1.7425101999833714,
+          "translation_seconds": 0.19271370000205934
+        },
+        {
+          "source": "Sistema",
+          "start": 748.0,
+          "asr_seconds": 1.7545907000021543,
+          "translation_seconds": 0.16794189999927767
+        },
+        {
+          "source": "Sistema",
+          "start": 752.0,
+          "asr_seconds": 1.7119953999936115,
+          "translation_seconds": 0.16319369999109767
+        },
+        {
+          "source": "Sistema",
+          "start": 756.0,
+          "asr_seconds": 3.315196499985177,
+          "translation_seconds": 0.16740810000919737
+        },
+        {
+          "source": "Sistema",
+          "start": 760.0,
+          "asr_seconds": 1.747903800016502,
+          "translation_seconds": 0.1636788999894634
+        },
+        {
+          "source": "Sistema",
+          "start": 764.0,
+          "asr_seconds": 1.7867998000292573,
+          "translation_seconds": 0.16530399999464862
+        },
+        {
+          "source": "Sistema",
+          "start": 768.0,
+          "asr_seconds": 3.561656200006837,
+          "translation_seconds": 0.14671869997982867
+        },
+        {
+          "source": "Sistema",
+          "start": 772.0,
+          "asr_seconds": 1.7436737999960314,
+          "translation_seconds": 0.1738191999902483
+        },
+        {
+          "source": "Sistema",
+          "start": 776.0,
+          "asr_seconds": 2.2317029999685474,
+          "translation_seconds": 0.23233730002539232
+        },
+        {
+          "source": "Sistema",
+          "start": 780.0,
+          "asr_seconds": 2.119001599989133,
+          "translation_seconds": 0.0392326999863144
+        },
+        {
+          "source": "Sistema",
+          "start": 784.0,
+          "asr_seconds": 2.8274237000150606,
+          "translation_seconds": 0.19655379999312572
+        },
+        {
+          "source": "Sistema",
+          "start": 788.0,
+          "asr_seconds": 1.7908520000055432,
+          "translation_seconds": 0.2411353999923449
+        },
+        {
+          "source": "Sistema",
+          "start": 792.0,
+          "asr_seconds": 3.363446900009876,
+          "translation_seconds": 0.1853852999920491
+        },
+        {
+          "source": "Sistema",
+          "start": 796.0,
+          "asr_seconds": 3.7949342999781948,
+          "translation_seconds": 0.19386100000701845
+        },
+        {
+          "source": "Sistema",
+          "start": 800.0,
+          "asr_seconds": 1.79825720001827,
+          "translation_seconds": 0.21075929998187348
+        },
+        {
+          "source": "Sistema",
+          "start": 804.0,
+          "asr_seconds": 3.9603432999865618,
+          "translation_seconds": 0.08370050002122298
+        },
+        {
+          "source": "Sistema",
+          "start": 808.0,
+          "asr_seconds": 1.8715006000129506,
+          "translation_seconds": 0.17684649999137037
+        },
+        {
+          "source": "Sistema",
+          "start": 812.0,
+          "asr_seconds": 1.8689759999979287,
+          "translation_seconds": 0.15626210000482388
+        },
+        {
+          "source": "Sistema",
+          "start": 816.0,
+          "asr_seconds": 3.557196300011128,
+          "translation_seconds": 0.18680249998578802
+        },
+        {
+          "source": "Sistema",
+          "start": 820.0,
+          "asr_seconds": 1.804537399992114,
+          "translation_seconds": 0.17101729998830706
+        },
+        {
+          "source": "Sistema",
+          "start": 824.0,
+          "asr_seconds": 0.8060236999590416,
+          "translation_seconds": 0.0915612000389956
+        },
+        {
+          "source": "Sistema",
+          "start": 828.0,
+          "asr_seconds": 0.6604732999694534,
+          "translation_seconds": 0.04208950002794154
+        },
+        {
+          "source": "Sistema",
+          "start": 832.0,
+          "asr_seconds": 0.7141440999985207,
+          "translation_seconds": 0.038794899999629706
+        },
+        {
+          "source": "Sistema",
+          "start": 836.0,
+          "asr_seconds": 0.7918968000158202,
+          "translation_seconds": 0.12816469997051172
+        },
+        {
+          "source": "Sistema",
+          "start": 840.0,
+          "asr_seconds": 0.7384080999763682,
+          "translation_seconds": 0.08933320001233369
+        },
+        {
+          "source": "Sistema",
+          "start": 844.0,
+          "asr_seconds": 0.7057443000085186,
+          "translation_seconds": 0.03500699999858625
+        },
+        {
+          "source": "Sistema",
+          "start": 848.0,
+          "asr_seconds": 0.6568022999854293,
+          "translation_seconds": 0.06525169999804348
+        },
+        {
+          "source": "Sistema",
+          "start": 852.0,
+          "asr_seconds": 0.7486962000257336,
+          "translation_seconds": 0.08503249997738749
+        },
+        {
+          "source": "Sistema",
+          "start": 856.0,
+          "asr_seconds": 0.5969089000136591,
+          "translation_seconds": 0.029287599987583235
+        },
+        {
+          "source": "Sistema",
+          "start": 860.0,
+          "asr_seconds": 0.6439442000119016,
+          "translation_seconds": 0.047012199996970594
+        },
+        {
+          "source": "Sistema",
+          "start": 864.0,
+          "asr_seconds": 0.7059167999832425,
+          "translation_seconds": 0.05231140000978485
+        },
+        {
+          "source": "Sistema",
+          "start": 868.0,
+          "asr_seconds": 0.6251598999951966,
+          "translation_seconds": 0.042916899983538315
+        },
+        {
+          "source": "Sistema",
+          "start": 872.0,
+          "asr_seconds": 0.6354992000269704,
+          "translation_seconds": 0.045882899983553216
+        },
+        {
+          "source": "Sistema",
+          "start": 876.0,
+          "asr_seconds": 0.7471514999924693,
+          "translation_seconds": 0.06275010001263581
+        },
+        {
+          "source": "Sistema",
+          "start": 880.0,
+          "asr_seconds": 0.9308089000114705,
+          "translation_seconds": 0.13616069999989122
+        },
+        {
+          "source": "Sistema",
+          "start": 884.0,
+          "asr_seconds": 0.9033150999748614,
+          "translation_seconds": 0.05449020001105964
+        },
+        {
+          "source": "Sistema",
+          "start": 888.0,
+          "asr_seconds": 0.7111694000195712,
+          "translation_seconds": 0.04260329998214729
+        },
+        {
+          "source": "Sistema",
+          "start": 892.0,
+          "asr_seconds": 1.5859231000067666,
+          "translation_seconds": 0.05187359999399632
+        },
+        {
+          "source": "Sistema",
+          "start": 896.0,
+          "asr_seconds": 0.6734179000195581,
+          "translation_seconds": 0.05044379999162629
+        }
+      ]
+    }
+  ]
+}

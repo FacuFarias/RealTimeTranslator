@@ -1,0 +1,39 @@
+{
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "frozen": false,
+  "models_path": "E:\\Translator\\dist\\Traductor\\models",
+  "embedded_runtime": true,
+  "network_attempts": [],
+  "tests": {
+    "translation": "Hola. Esta aplicación funciona sin conexión a Internet.",
+    "devices": {
+      "system": [
+        "Altavoces (Realtek(R) Audio) [Loopback]",
+        "MSI MAG162V (NVIDIA High Definition Audio) [Loopback]",
+        "Auriculares (G435 Bluetooth Gaming Headset) [Loopback]"
+      ],
+      "microphones": [
+        "Auriculares con micrófono (G435 Bluetooth Gaming Headset)",
+        "Varios micrófonos (Intel® Smart Sound Technology for Digital Microphones)"
+      ]
+    },
+    "gui": "ok",
+    "export": "ok",
+    "recognition": {
+      "small.en": {
+        "load_seconds": 1.314,
+        "text": "Hello! This application translates English into Spanish. All audio is processed on this computer. You can save the transcript at the end of the session.",
+        "inference_seconds": 3.186,
+        "audio_seconds": 11.408
+      },
+      "base.en": {
+        "load_seconds": 0.429,
+        "text": "Hello. This application translates English into Spanish. All audio is processed on this computer. You can save the transcript at the end of the session.",
+        "inference_seconds": 1.086,
+        "audio_seconds": 11.408
+      }
+    }
+  },
+  "success": true
+}

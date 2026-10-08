@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["translator"]
+
+[project]
+name = "traductor-local"
+version = "1.0.0"
+description = "Subtítulos locales inglés a español para Windows"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+  "PySide6==6.8.3",
+  "PyAudioWPatch==0.2.12.7",
+  "faster-whisper==1.2.0",
+  "argostranslate==1.9.6",
+  "numpy==1.26.4",
+  "scipy==1.15.3",
+  "huggingface-hub==0.34.4",
+]
+
+[project.optional-dependencies]
+build = ["pyinstaller==6.16.0", "pytest==8.4.2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

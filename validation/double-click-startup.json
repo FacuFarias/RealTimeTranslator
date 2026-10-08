@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "executable": "E:\\Translator\\dist\\Traductor\\Traductor.exe",
+  "window_title": "Traductor local · Inglés → Español",
+  "models_path": "E:\\Translator\\dist\\Traductor\\models",
+  "module_paths": [
+    "E:\\Translator\\dist\\Traductor\\python311.zip",
+    "E:\\Translator\\dist\\Traductor",
+    "E:\\Translator\\dist\\Traductor\\_internal"
+  ]
+}
